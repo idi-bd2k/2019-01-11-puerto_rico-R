@@ -176,7 +176,9 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
     to-be-announced
   {% endif %}
   for more information.
+  
 </p>
+<p> To register, click <a href="https://goo.gl/forms/cIIC8pbweiRAjTXF3" target="blank">here</a>.</p>
 
 <hr/>
 
