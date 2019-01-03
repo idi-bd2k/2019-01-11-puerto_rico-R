@@ -178,7 +178,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   for more information.
   
 </p>
-<p> <string>Registration:</string> To register, click <a href="https://goo.gl/forms/cIIC8pbweiRAjTXF3" target="blank">here</a>.</p>
+<p> <strong>Registration:</strong> To register, click <a href="https://goo.gl/forms/cIIC8pbweiRAjTXF3" target="blank">here</a>.</p>
 
 <hr/>
 
