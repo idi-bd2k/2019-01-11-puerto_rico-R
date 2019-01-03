@@ -601,7 +601,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 {% endcomment %}
 </div> {% comment %} End of 'Python' section. {% endcomment %}
 {% endcomment %}
-<!--
+
 <div id="r"> {% comment %} Start of 'R' section. {% endcomment %}
   <h3>R</h3>
 
@@ -656,7 +656,6 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 {% comment %}
 <div id="sql"> {% comment %} Start of 'SQLite' section. {% endcomment %}
   <h3>SQLite</h3>
--->
   <!--
   <p>
     SQL is a specialized programming language used with databases.  We
